@@ -1,10 +1,18 @@
 # Library Management System
 
+
 ## Overview
 
 The Library Management System is a fully customizable application developed during an internship at Infosys. It is designed to streamline library operations and enhance user experience by providing a range of features for administrators, librarians, and members.
 
 ## Features
+
+
+
+https://github.com/user-attachments/assets/14286463-1613-406d-84ba-fb29b3507f03
+
+
+
 
 ### For Administrators
 - **Analytics Dashboard:** Provides a comprehensive overview of library activities.
